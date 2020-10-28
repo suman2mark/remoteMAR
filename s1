@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 mar file line1 locally on master branch
 mar file line2 locally on master branch
-mar file line4 locally on master branch
-=======
 mar file line3 locally on newBRANCH
->>>>>>> newBRANCH
+mar file line4 locally on master branch
